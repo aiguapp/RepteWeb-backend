@@ -34,5 +34,41 @@
     "liters": 390.0,
     "deviation": "+14",
     "timestamp": "2025-10-15T05:00"
+  },
+  {
+    "id": 5,
+    "neighborhood": "Les Corts",
+    "type": "leak",
+    "severity": "high",
+    "liters": 520.7,
+    "deviation": "+28",
+    "timestamp": "2025-10-15T02:30"
+  },
+  {
+    "id": 6,
+    "neighborhood": "Horta-Guinardó",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 400.3,
+    "deviation": "+20",
+    "timestamp": "2025-10-15T03:15"
+  },
+  {
+    "id": 7,
+    "neighborhood": "Sarrià-Sant Gervasi",
+    "type": "leak",
+    "severity": "high",
+    "liters": 545.0,
+    "deviation": "+30",
+    "timestamp": "2025-10-15T01:45"
+  },
+  {
+    "id": 8,
+    "neighborhood": "Eixample",
+    "type": "spike",
+    "severity": "high",
+    "liters": 420.5,
+    "deviation": "+22",
+    "timestamp": "2025-10-15T04:30"
   }
 ]

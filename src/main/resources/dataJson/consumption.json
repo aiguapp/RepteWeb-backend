@@ -61,5 +61,122 @@
     "liters": 60.3,
     "deviation": -7,
     "timestamp": "2025-10-15T07:30"
+  },
+  {
+    "id": 8,
+    "neighborhood": "Horta-Guinardó",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 410.5,
+    "deviation": 20,
+    "timestamp": "2025-10-15T03:30"
+  },
+  {
+    "id": 9,
+    "neighborhood": "Sarrià-Sant Gervasi",
+    "type": "leak",
+    "severity": "high",
+    "liters": 550.7,
+    "deviation": 28,
+    "timestamp": "2025-10-15T02:00"
+  },
+  {
+    "id": 10,
+    "neighborhood": "Sant Andreu",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 370.3,
+    "deviation": 17,
+    "timestamp": "2025-10-15T05:30"
+  },
+  {
+    "id": 11,
+    "neighborhood": "Gracia",
+    "type": "drop",
+    "severity": "low",
+    "liters": 55.2,
+    "deviation": -6,
+    "timestamp": "2025-10-15T08:15"
+  },
+  {
+    "id": 12,
+    "neighborhood": "Ciutat Vella",
+    "type": "leak",
+    "severity": "high",
+    "liters": 495.4,
+    "deviation": 26,
+    "timestamp": "2025-10-15T06:45"
+  },
+  {
+    "id": 13,
+    "neighborhood": "Eixample",
+    "type": "drop",
+    "severity": "medium",
+    "liters": 70.8,
+    "deviation": -14,
+    "timestamp": "2025-10-15T07:00"
+  },
+  {
+    "id": 14,
+    "neighborhood": "Sants-Montjuic",
+    "type": "leak",
+    "severity": "high",
+    "liters": 525.3,
+    "deviation": 32,
+    "timestamp": "2025-10-15T01:15"
+  },
+  {
+    "id": 15,
+    "neighborhood": "Nou Barris",
+    "type": "drop",
+    "severity": "low",
+    "liters": 62.0,
+    "deviation": -8,
+    "timestamp": "2025-10-15T09:00"
+  },
+  {
+    "id": 16,
+    "neighborhood": "Les Corts",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 400.9,
+    "deviation": 18,
+    "timestamp": "2025-10-15T04:15"
+  },
+  {
+    "id": 17,
+    "neighborhood": "Sant Marti",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 380.2,
+    "deviation": 16,
+    "timestamp": "2025-10-15T03:45"
+  },
+  {
+    "id": 18,
+    "neighborhood": "Horta-Guinardó",
+    "type": "drop",
+    "severity": "low",
+    "liters": 50.4,
+    "deviation": -5,
+    "timestamp": "2025-10-15T06:00"
+  },
+  {
+    "id": 19,
+    "neighborhood": "Sarrià-Sant Gervasi",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 420.1,
+    "deviation": 22,
+    "timestamp": "2025-10-15T05:15"
+  },
+  {
+    "id": 20,
+    "neighborhood": "Sant Andreu",
+    "type": "leak",
+    "severity": "high",
+    "liters": 545.6,
+    "deviation": 29,
+    "timestamp": "2025-10-15T02:30"
   }
 ]

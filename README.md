@@ -184,7 +184,7 @@ http://localhost:8080
 
 ---
 
-## 🧾 Llicència
+## 🧾 Llicència 
 
 Aquest projecte es distribueix sota llicència **MIT**.  
 El pots utilitzar i modificar lliurement citant-ne la font.
