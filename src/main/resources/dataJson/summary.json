@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "neighborhood": "Sants-Montjuic",
+    "type": "spike",
+    "severity": "high",
+    "liters": 240.8,
+    "deviation": 18,
+    "timestamp": "2025-10-15T08:00"
+  },
+  {
+    "id": 2,
+    "neighborhood": "Eixample",
+    "type": "spike",
+    "severity": "high",
+    "liters": 210.0,
+    "deviation": 15,
+    "timestamp": "2025-10-15T08:00"
+  },
+  {
+    "id": 3,
+    "neighborhood": "Les Corts",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 190.7,
+    "deviation": 12,
+    "timestamp": "2025-10-15T08:00"
+  },
+  {
+    "id": 4,
+    "neighborhood": "Ciutat Vella",
+    "type": "drop",
+    "severity": "medium",
+    "liters": 180.1,
+    "deviation": -8,
+    "timestamp": "2025-10-15T08:00"
+  },
+  {
+    "id": 5,
+    "neighborhood": "Sant Marti",
+    "type": "drop",
+    "severity": "medium",
+    "liters": 165.2,
+    "deviation": -6,
+    "timestamp": "2025-10-15T08:00"
+  },
+  {
+    "id": 6,
+    "neighborhood": "Sant Andreu",
+    "type": "spike",
+    "severity": "medium",
+    "liters": 160.0,
+    "deviation": 10,
+    "timestamp": "2025-10-15T08:00"
+  },
+  {
+    "id": 7,
+    "neighborhood": "Gracia",
+    "type": "drop",
+    "severity": "low",
+    "liters": 140.5,
+    "deviation": -4,
+    "timestamp": "2025-10-15T08:00"
+  }
+]

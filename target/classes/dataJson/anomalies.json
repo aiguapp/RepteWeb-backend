@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "neighborhood": "Gracia",
+    "type": "leak",
+    "severity": "high",
+    "liters": 510.2,
+    "deviation": "+18",
+    "timestamp": "2025-10-15T03:00"
+  },
+  {
+    "id": 2,
+    "neighborhood": "Ciutat Vella",
+    "type": "spike",
+    "severity": "high",
+    "liters": 460.0,
+    "deviation": "+25",
+    "timestamp": "2025-10-15T02:00"
+  },
+  {
+    "id": 3,
+    "neighborhood": "Sants-Montjuic",
+    "type": "drop",
+    "severity": "medium",
+    "liters": 45.5,
+    "deviation": "-12",
+    "timestamp": "2025-10-15T04:00"
+  },
+  {
+    "id": 4,
+    "neighborhood": "Nou Barris",
+    "type": "spike",
+    "severity": "high",
+    "liters": 390.0,
+    "deviation": "+14",
+    "timestamp": "2025-10-15T05:00"
+  }
+]
