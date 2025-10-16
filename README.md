@@ -69,7 +69,7 @@ Cada vegada que es fa una petició, el backend **llegeix directament els fitxers
 L’API de **AiguaApp** està desplegada mitjançant la plataforma **[Render](https://render.com)**.  
 Pots accedir-hi directament aquí:
 
-👉 **https://repteweb-backend.onrender.com**
+👉 **https://repteweb-backend.onrender.com/docs/**
 
 ### 🔹 Endpoints públics disponibles
 - [https://repteweb-backend.onrender.com/consumption/](https://repteweb-backend.onrender.com/consumption/)
@@ -192,3 +192,4 @@ El pots utilitzar i modificar lliurement citant-ne la font.
 ```
 MIT License © 2025 AiguaApp Team
 ```
+
